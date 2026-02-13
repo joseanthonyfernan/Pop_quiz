@@ -1,0 +1,56 @@
+=========================================
+      POP QUIZ SYSTEM GUIDELINES
+=========================================
+
+1. ATTENDANCE POLICY
+--------------------
+Attendance is recorded automatically upon login based on the following schedule:
+- PRESENT : Logins on or before 09:30 AM.
+- LATE    : Logins between 09:31 AM and 01:30 PM.
+- ABSENT  : Logins after 01:31 PM.
+
+2. LOG-OUT POLICY
+-----------------
+Log-outs (Time-Outs) are automatically recorded at fixed intervals:
+- Morning Session: 12:45 PM (for logins before 12:45 PM)
+- Afternoon Session: 05:45 PM (for logins after 12:45 PM)
+
+3. QUIZ GUIDELINES
+------------------
+- QUIZ AVAILABILITY: Quizzes are scheduled and may be released at 
+  specific dates or times.
+- PROGRESS TRACKING: Your progress is automatically saved. You can 
+  see your completed questions and point totals on your dashboard.
+- COMPLETION: A quiz is considered finished when all questions in the 
+  current set are answered.
+- TIME LIMITS: Pay attention to any countdown timers if applicable for 
+  specific quizzes.
+
+4. STUDENT PROCEDURES
+---------------------
+- LOGGING IN: Enter your Student Number to log in. First-time users 
+  will be prompted to complete their profile.
+- TAKING QUIZZES: Navigate to the "Take Quiz" section from your 
+  dashboard.
+- VIEWING RESULTS: Your scores and top performers are visible on your 
+  dashboard and the results page.
+- LOGGING OUT: The system automatically handles your attendance log-out. 
+  Just ensure you've completed your activities before the system logout times.
+
+5. ADMIN PROCEDURES
+-------------------
+- MANAGING QUIZZES: Admins can create, edit, and schedule quizzes 
+  through the Admin Dashboard.
+- MONITORING ATTENDANCE: Real-time attendance tracking (Time-In and 
+  Time-Out) is available in the Admin Attendance section.
+- RESULTS & ANALYTICS: Admins can view comprehensive results, top 
+  performers, and student progress.
+
+6. TECHNICAL SUPPORT
+--------------------
+In case of issues with login, quiz submission, or timer malfunctions, 
+please contact the system administrator immediately.
+
+=========================================
+      Pop Quiz System v1.0 - 2026
+=========================================

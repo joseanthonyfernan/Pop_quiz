@@ -1,0 +1,84 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 1.25rem;
+}
+
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+
+.quiz-timer {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #e74a3b;
+    position: sticky;
+    top: 20px;
+}
+
+.option-container {
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 2px solid #f0f0f0;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+
+.option-container:hover {
+    background-color: #f8f9fc;
+    border-color: #4e73df;
+}
+
+.option-container input[type="radio"]:checked + label {
+    font-weight: bold;
+}
+
+.sidebar {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    height: fit-content;
+}
+
+.table th {
+    border-top: none;
+}
+
+.badge-present {
+    background-color: #1cc88a;
+}
+
+.badge-absent {
+    background-color: #e74a3b;
+}
+
+/* Glassmorphism effect for login card */
+.login-card {
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
